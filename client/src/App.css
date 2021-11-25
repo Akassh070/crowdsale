@@ -1,0 +1,35 @@
+*{
+  background-color: black;
+  color: white; 
+}
+.theNavBar{
+  height: 76px;
+  width: 100%;
+  background-color: black;
+  color: white;
+  border-bottom: 1px solid white;
+}
+.theNavBar #nav1{
+  color: white;
+  display:flex;
+  justify-content: space-between;
+  color: white;
+  vertical-align: middle;
+}
+h2 {
+  padding-left: 20px;
+
+}p{
+  padding-right: 20px;
+}
+ .second{
+  border: 1px solid black;
+  height: 500px;
+  margin: auto;
+  align-items: center;
+  border: 1px solid white;
+  padding-left: 200px;
+  padding-top: 50px;
+  width: 40%;
+  
+}
